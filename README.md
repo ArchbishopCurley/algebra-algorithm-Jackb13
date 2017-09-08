@@ -1,0 +1,3 @@
+# algebra-algorithm-Jackb13
+algebra-algorithm-Jackb13 created by GitHub Classroom
+{"Attachments":[{"ParentItemId":"AAMkAGFjZmU1Y2UxLWZjN2YtNDA1NS1hZGQ1LTQ2NzQ2YWY4ZGRlZQBGAAAAAACwvL2PgvoPR4gwwjbUANlJBwAzjmhOMaWUQofcWKDE4gBoATK2nfDlAADczbRQU9a9SbfWemJCLDSoAAAVYizFAAA=","IsAttachmentItemAttachment":false,"__type":"ItemIdAttachment:#Exchange","AttachmentIdToAttach":"AAMkAGFjZmU1Y2UxLWZjN2YtNDA1NS1hZGQ1LTQ2NzQ2YWY4ZGRlZQBGAAAAAACwvL2PgvoPR4gwwjbUANlJBwAzjmhOMaWUQofcWKDE4gBoATK2nfDlAADczbRQU9a9SbfWemJCLDSoAAAVYizFAAABEgAQAN09EsJi6p1HhFl9090/cPw=","Name":"Algorithm for math problem.pdf","IsInline":false}]}
